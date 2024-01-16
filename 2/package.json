@@ -1,0 +1,11 @@
+{
+  "name": "debouncellback",
+  "version": "1.0.0",
+  "description": "Debounce callback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MVTTSUN",
+  "license": "ISC"
+}
